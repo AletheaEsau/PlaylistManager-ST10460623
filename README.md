@@ -23,3 +23,6 @@ Then after the average rating button is clicked an average rating of 4.50 is dis
 Then after you click the back to main button it basically takes you back to the home screen which is the main screen.
 ![main screen](https://github.com/user-attachments/assets/fc23b28a-116a-49d2-a985-2765b33c1c33)
 
+It does error handlingas well, when clicking the show songs and trying to see the average rating and you have not entered any songs a message is dispayed.
+![Screenshot 2025-06-19 175334](https://github.com/user-attachments/assets/9a3a7b97-7731-44c9-8b2b-93f43acdd502) ![Screenshot 2025-06-19 175350](https://github.com/user-attachments/assets/4d5384e1-142f-4283-aa88-6819498dcd83)
+
